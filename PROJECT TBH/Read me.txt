@@ -1,0 +1,9 @@
+Use this for logging in
+
+Username: admin
+Password: admin
+
+This is my first program in VB 6.0. This program i made is for the begginers in VB like me.
+Please vote this little system. Thank you and God Bless..
+
+- Roy Villafuerte Naparan
